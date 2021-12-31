@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789335536654",
+    "firebase_url": "https://weeksixtaskandroidsq009-default-rtdb.firebaseio.com",
+    "project_id": "weeksixtaskandroidsq009",
+    "storage_bucket": "weeksixtaskandroidsq009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789335536654:android:74f894ea23e833591cb85f",
+        "android_client_info": {
+          "package_name": "com.olamachia.weeksixtaskandroidsq009"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789335536654-dqnrgp52m0534mgcm89luj33um86bsne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olamachia.weeksixtaskandroidsq009",
+            "certificate_hash": "31a8e68b40b979bb6f6377c4a73a64d053312554"
+          }
+        },
+        {
+          "client_id": "789335536654-i41kosu1mbsi8gnq6pnaui32r5gle6r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHHycTWsPV5XT9Ty4f_M6moSWnT-_Wabs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789335536654-i41kosu1mbsi8gnq6pnaui32r5gle6r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

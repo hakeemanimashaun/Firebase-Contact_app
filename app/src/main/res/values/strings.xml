@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">WeekSixTaskAndroidSQ009</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="added_cotact">Contact has been added successfully</string>
+    <string name="error">" %1$s"</string>
+    <string name="read_cell_contacts">Read cell contacts</string>
+    <string name="add_contact">Add contact</string>
+    <string name="read_realtime_contact">read_realtime_contact</string>
+    <string name="read_realtime_contacts">read_realtime_contacts</string>
+    <string name="add_realtime_contact">add_realtime_contact</string>
+    <string name="contact_name">contact name</string>
+    <string name="contact_number">contact number</string>
+    <string name="edit_content">edit content</string>
+    <string name="call_contact">call contact</string>
+    <string name="delete_contact">delete contact</string>
+    <string name="share_contact">share contact</string>
+    <string name="enter_number">enter number</string>
+    <string name="enter_name">enter name</string>
+    <string name="read_realtime">read_realtime</string>
+    <string name="read_cell">read cell</string>
+    <string name="contact_picture">contact picture</string>
 </resources>
